@@ -11,9 +11,11 @@
 
 #Search screen
 
-<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/15fdd3b7-f05f-41ef-83cf-3a5349ec6d87" />
+<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/15fdd3b7-f05f-41ef-83cf-3a5349ec6d87" />
+
 
 
 #Cart screen
 
-<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/7c12030d-d778-4d4d-8830-1a7e102dce82" />
+
+<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/7c12030d-d778-4d4d-8830-1a7e102dce82" />
