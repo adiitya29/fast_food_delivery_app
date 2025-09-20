@@ -5,7 +5,7 @@
 
 #Home screen
 
-<img width="100" height="300" alt="image" src="https://github.com/user-attachments/assets/e8a0c36b-1d21-454c-853c-943830fa2072" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/e8a0c36b-1d21-454c-853c-943830fa2072" />
 
 
 
